@@ -1,16 +1,18 @@
-### Hi there 👋
+# **Al3xDiaz**
 
-<!--
-**Al3xDiaz/al3xdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm software developer.i have experiencie on frontend, backend, devops and database manage.
 
-Here are some ideas to get you started:
+### Frontend
+* JS Vanilla
+* CSS
+* React js
+* Vue js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My self
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning on GO, Django, Terraform, Packer, Docker, Kubernetes, etc..
+- 👯 I’m looking to collaborate on Honduras education.
+- 💬 Ask me about Chess, Volleyball and teach
+- 📫 How to reach me: [github](http://github.com/al3xdiaz) [LinkedIn](https://www.linkedin.com/in/al3xdiaz/) alexleonel96@hotmail.com
+
