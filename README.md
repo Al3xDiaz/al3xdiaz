@@ -7,7 +7,21 @@ i'm software developer.i have experiencie on frontend, backend, devops and datab
 * CSS
 * React js
 * Vue js
-
+### Backend
+* C# (.net core & .net frameworks)
+* python (django, django-rest-frameworks, flask, Celery, etc)
+* NodeJS (Express)
+### DevOps
+* Docker
+* kubernetes
+* Ansible
+* Terraform
+* Packer
+* ShellScript
+#DBA
+* Transact-SQL
+* mySQL
+* MongoDB
 
 ## My self
 - 🔭 I’m currently working on myself
