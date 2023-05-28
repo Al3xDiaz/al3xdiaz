@@ -1,10 +1,6 @@
 # **Al3xDiaz**
 
 i'm software developer.i have experiencie on frontend, backend, devops and database manage.
-### Backend
-* C# (.net core & .net frameworks)
-* python (django, django-rest-frameworks, flask, Celery, etc)
-* NodeJS (Express)
 ### DevOps
 * Docker
 * kubernetes
@@ -12,6 +8,10 @@ i'm software developer.i have experiencie on frontend, backend, devops and datab
 * Terraform
 * Packer
 * ShellScript
+### Backend
+* C# (.net core & .net frameworks)
+* python (django, django-rest-frameworks, flask, Celery, etc)
+* NodeJS (Express)
 ### Frontend
 * JS Vanilla
 * CSS
