@@ -1,18 +1,10 @@
 # **Al3xDiaz**
 
 i'm software developer.i have experiencie on frontend, backend, devops and database manage.
-
-### Frontend
-* JS Vanilla
-* CSS
-* React js
-* Vue js
-
 ### Backend
 * C# (.net core & .net frameworks)
 * python (django, django-rest-frameworks, flask, Celery, etc)
 * NodeJS (Express)
-
 ### DevOps
 * Docker
 * kubernetes
@@ -20,7 +12,11 @@ i'm software developer.i have experiencie on frontend, backend, devops and datab
 * Terraform
 * Packer
 * ShellScript
-
+### Frontend
+* JS Vanilla
+* CSS
+* React js
+* Vue js
 ### DBA
 * Transact-SQL
 * mySQL
