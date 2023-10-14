@@ -5,7 +5,7 @@ I'm DevOps Engenier. I've had experiencie on frontend, backend, devops and datab
 - 👯 I’m looking to collaborate on Honduras education.
 - 💬 Ask me about Chess, Volleyball and teach
 ### 🤝 Connect with me:
-<a href="[https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/al3xdiaz/)"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="alex diaz | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/al3xdiaz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="alex diaz | LinkedIn" width="21px"/></a>
 <a href="https://gitlab.com/al3xdiaz"><img align="left" src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" alt="alex diaz | Gitlab" width="21px"/></a>
 <a href="https://alex.chaoticteam.com"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" alt="alex diaz | Site" width="21px"/></a>
 </br>
