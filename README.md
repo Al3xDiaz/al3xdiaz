@@ -47,8 +47,8 @@
 <h2 >devops tecnologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,cloudflare,prometheus,grafana,git,github,gitlab,jenkins,nginx&perline=12" />
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/Al3xDiaz/al3xdiaz/main/terraform.svg" style="height: 48px;" />
+    <img src="https://skillicons.dev/icons?i=ansible,aws,docker,kubernetes,cloudflare,prometheus,grafana,git,github,gitlab,jenkins,nginx&perline=12" />
   </a>
 </p>
 <h2 >backend tecnologies</h2>
