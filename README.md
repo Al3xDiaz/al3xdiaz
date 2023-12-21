@@ -12,7 +12,9 @@
 <h2>About me 😃</h2>
 <!--Intro start-->
 <p align="left">
-  I'm site reliability engineer (sre). I have experiencie on frontend, backend and database manage.
+  I'm Software Engenieer, i like play chess and volleyball. I'm 27 years old and i'm leave Honduras <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/hn.svg" style="height: 10px" />.
+  <br />
+  Not only, I have experiencie on frontend, backend and database manage, but also I'm site reliability engineer (sre | devops). 
   <br />
 </p>
   <h3> My self </h3>
