@@ -50,8 +50,7 @@
 <h2 >devops tecnologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://raw.githubusercontent.com/Al3xDiaz/al3xdiaz/main/terraform.svg" style="height: 48px;" />
-    <img src="https://skillicons.dev/icons?i=ansible,aws,docker,kubernetes,cloudflare,prometheus,grafana,git,github,gitlab,jenkins,nginx&perline=12" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,cloudflare,prometheus,grafana,git,github,gitlab,jenkins,githubactions,nginx&perline=12" />
   </a>
 </p>
 <h2 >backend tecnologies</h2>
@@ -63,7 +62,7 @@
 <h2 >frontend tecnologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,graphql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,vue,nextjs,nuxtjs,graphql&perline=12" />
   </a>
 </p>
 <h2 >database tecnologies</h2>
@@ -75,10 +74,16 @@
   </a>
   </a>
 </p>
+<h2 >Mobile tecnologies</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,react&perline=12" />
+  </a>
+</p>
 <h2 >others tecnologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=regex,vscode,vim,bash,linux,androidstudio&perline=12" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,vim,regex,bash,linux&perline=12" />
   </a>
 </p>
 <br>
