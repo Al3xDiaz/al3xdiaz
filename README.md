@@ -6,7 +6,6 @@
   <a href = "https://twitter.com/al3xsierra" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@al3xdiaz"  /></a>
   <a href = "https://discord.com/users/1028806986457960488" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="@al3xdiaz"  /></a>
   <a href = "https://www.youtube.com/@al3xdiaz" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="@al3xdiaz"  /></a>
-  <a href = "mailto:alexleonel96@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="@al3xdiaz"  /></a>
 </p>
 <br>
 <h2>About me 😃</h2>
