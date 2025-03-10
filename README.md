@@ -56,7 +56,7 @@
 <h2 >backend tecnologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,js,ts,java,py,django,flask,cs,dotnet,php,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,ts,java,py,django,flask,cs,dotnet,spring,php,&perline=12" />
   </a>
 </p>
 <h2 >frontend tecnologies</h2>
